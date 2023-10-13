@@ -1,0 +1,8 @@
+package org.example.model;
+
+public interface Server {
+    public void get();
+    public void post();
+    public void delete();
+    public void update();
+}
